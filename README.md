@@ -1,5 +1,5 @@
 -Hello, I’m @JasonSamraj
--I'm a former research and development engineer with 2+ year experince
+-I'm a former research and development developer with 2+ year experince
 -Learning and exploring to be a Data analyst 
 -Open to collaborate on  technology forecasting, NLP-patent analysis and NPL analysis
 -email: s.j.jasonsamraj@gmail.com
